@@ -1,0 +1,9 @@
+Deleted file: D:\ZERODHA\clean-more.log
+Failed to delete D:\ZERODHA\frontend\node_modules\postcss-initial\~: Cannot find path 'D:\ZERODHA\frontend\node_modules\postcss-initial\~' because it does not exist.
+Deleted file: D:\ZERODHA\dashboard\package-lock.json
+Deleted file: D:\ZERODHA\frontend\package-lock.json
+Failed to delete D:\ZERODHA\frontend\node_modules\combined-stream\yarn.lock: Cannot find path 'D:\ZERODHA\frontend\node_modules\combined-stream\yarn.lock' because it does not exist.
+Failed to delete D:\ZERODHA\frontend\node_modules\uri-js\yarn.lock: Cannot find path 'D:\ZERODHA\frontend\node_modules\uri-js\yarn.lock' because it does not exist.
+Failed to delete D:\ZERODHA\frontend\node_modules\iconv-lite\.idea: Cannot find path 'D:\ZERODHA\frontend\node_modules\iconv-lite\.idea' because it does not exist.
+Deleted file: D:\ZERODHA\.vscode\launch.json
+=== Clean-more finished: 10/05/2025 10:38:11 ===
